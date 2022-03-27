@@ -1,0 +1,175 @@
+[
+    {
+        "char": {
+            "armour": 2,
+            "battle": {
+                "OH_kill": false,
+                "def_debuff": 1,
+                "parts": [
+                    "Head",
+                    "Chest",
+                    "Left Arm",
+                    "Right Arm",
+                    "Left Leg",
+                    "Right Leg"
+                ],
+                "pos": 0,
+                "spd_debuff": 1,
+                "str_debuff": 1
+            },
+            "fame": 51,
+            "gender": 0,
+            "line": true,
+            "name": "DAVIN",
+            "pos": 3,
+            "race": 1,
+            "stats": {
+                "def": 5,
+                "ide_ran": 5,
+                "spd": 2,
+                "str": 7
+            },
+            "weapon": 0
+        },
+        "party": {
+            "fame": 79,
+            "members": [
+                {
+                    "armour": 0,
+                    "battle": {
+                        "OH_kill": false,
+                        "def_debuff": 1,
+                        "parts": [
+                            "Head",
+                            "Chest",
+                            "Left Arm",
+                            "Right Arm",
+                            "Left Leg",
+                            "Right Leg"
+                        ],
+                        "pos": 0,
+                        "spd_debuff": 1,
+                        "str_debuff": 1
+                    },
+                    "fame": 6,
+                    "gender": 0,
+                    "line": 0,
+                    "name": "PARKER",
+                    "pos": 1,
+                    "race": 3,
+                    "stats": {
+                        "def": 4,
+                        "ide_ran": 2,
+                        "spd": 2,
+                        "str": 5
+                    },
+                    "weapon": 2
+                },
+                {
+                    "armour": 1,
+                    "battle": {
+                        "OH_kill": 1,
+                        "def_debuff": 1,
+                        "parts": [
+                            "Head",
+                            "Chest",
+                            "Left Arm",
+                            "Right Arm",
+                            "Left Leg"
+                        ],
+                        "pos": 0,
+                        "spd_debuff": 0.7,
+                        "str_debuff": 1
+                    },
+                    "fame": 63,
+                    "gender": 0,
+                    "line": 0,
+                    "name": "ELLIOT",
+                    "pos": 1,
+                    "race": 2,
+                    "stats": {
+                        "def": 7,
+                        "ide_ran": 2,
+                        "spd": -1,
+                        "str": 7
+                    },
+                    "weapon": 1
+                }
+            ]
+        },
+        "recruits": []
+    },
+    {
+        "char": {
+            "armour": 0,
+            "battle": {
+                "OH_kill": false,
+                "def_debuff": 1,
+                "pos": 0,
+                "spd_debuff": 1,
+                "str_debuff": 1
+            },
+            "fame": 0,
+            "gender": 0,
+            "line": 0,
+            "name": "JAY",
+            "race": 1,
+            "stats": {
+                "def": 2,
+                "ide_ran": 3,
+                "spd": 5,
+                "str": 5
+            },
+            "weapon": 2
+        },
+        "party": {
+            "fame": 0,
+            "members": [
+                null,
+                null
+            ]
+        },
+        "recruits": []
+    },
+    {
+        "char": {
+            "armour": 0,
+            "battle": {
+                "OH_kill": false,
+                "def_debuff": 1,
+                "parts": [
+                    "Head",
+                    "Chest",
+                    "Left Arm",
+                    "Right Arm",
+                    "Left Leg",
+                    "Right Leg"
+                ],
+                "pos": 0,
+                "spd_debuff": 1,
+                "str_debuff": 1
+            },
+            "fame": 4,
+            "gender": 0,
+            "line": 0,
+            "name": "ROB",
+            "pos": 4,
+            "race": 1,
+            "stats": {
+                "def": 2,
+                "ide_ran": 5,
+                "spd": 5,
+                "str": 7
+            },
+            "weapon": 0
+        },
+        "party": {
+            "fame": 4,
+            "members": [
+                null,
+                null
+            ]
+        },
+        "recruits": []
+    }
+]
